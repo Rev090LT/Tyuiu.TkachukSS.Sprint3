@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{FAB5B2E1-00F4-42BD-89CB-A19EBCEF48DA}</ProjectGuid>
+    <ProjectGuid>{A1632D7E-44D0-453A-AFC1-606DD3D3CEAC}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Tyuiu.TkachukSS.Sprint3.Task2.V20.Lib</RootNamespace>
-    <AssemblyName>Tyuiu.TkachukSS.Sprint3.Task2.V20.Lib</AssemblyName>
+    <RootNamespace>Tyuiu.TkachukSS.Sprint3.Task4.V23.Lib</RootNamespace>
+    <AssemblyName>Tyuiu.TkachukSS.Sprint3.Task4.V23.Lib</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
